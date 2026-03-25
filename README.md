@@ -1,16 +1,18 @@
-## Hi there 👋
+💫 About Me:
+Hi, I’m Tihaa Puthran, a Data Science student with a strong interest in Artificial Intelligence, Machine Learning, Agentic AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP), AI Agents, Data Analytics, DBMS, and Software Development.
+I enjoy building practical projects, solving real-world problems, and continuously improving my technical skills through hands-on learning. I am currently exploring Agentic Ai Deep learning and automation workflows
 
-<!--
-**TihaaPuthran/TihaaPuthran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+LinkedIn
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+Python Render Heroku Anaconda Chart.js FastAPI NodeJS MySQL MongoDB Adobe After Effects Sketch Up NumPy Pandas PyTorch scikit-learn Scipy TensorFlow Matplotlib mlflow Plotly Git GitHub Actions GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
+
+
+🔝 Top Contributed Repo
