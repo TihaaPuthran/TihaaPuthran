@@ -13,6 +13,3 @@ Python Render Heroku Anaconda Chart.js FastAPI NodeJS MySQL MongoDB Adobe After 
 
 
 
-
-
-🔝 Top Contributed Repo
